@@ -1,0 +1,53 @@
+//trigger with exact-match of !duckfact
+
+
+{{$var := randInt 106}}
+
+{{if lt $var 7}}
+Duck penises are corkscrew shaped and have hundreds of spikes
+
+{{else if lt $var 14}}
+Female ducks often murder males during mating season.
+
+{{else if lt $var 21}}
+Duck penises can be up to 3 inches longer when erect.
+
+{{else if lt $var 28}}
+Female ducks have twisted vaginas so they can choose which male duck fathers their ducklings.
+
+{{else if lt $var 35}}
+Groups of up to 10 male ducks rape female ducks and ducklings.
+
+{{else if lt $var 42}}
+Duck penises can be up to 16 inches long.
+
+{{else if lt $var 49}}
+Male ducks murder around 40% of ducklings within the first 70 days of their life.
+
+{{else if lt $var 56}}
+Ducks have bones in their tongues that protrude out the sides which will impale anything they bite.
+
+{{else if lt $var 63}}
+If ducks have nothing to do they will often attack and cannibalise another duck nearby in order to work on their fighting skills
+
+{{else if lt $var 70}}
+Male ducks will often rape the smallest male in their flock to death if there are no females nearby.
+
+{{else if lt $var 77}}
+If a male duck doesn't like the female duck he is mating with, he will drown her.
+
+{{else if lt $var 84}}
+Male ducks will often rape any duck corpses they find, regardless of whether it is male or female.
+
+{{else if lt $var 91}}
+If a male duck is trying to attack a mother duck and her babies, the mother will often leave the weakest behind to die and run away with her other ducklings. 
+
+{{else if lt $var 98}}
+Ducks can swap genders.
+
+{{else if lt $var 105}}
+Ducks will attempt to have sex with unhatched eggs.
+
+{{else}}
+Ducks aren't real you fucking idiot. 
+{{end}}
